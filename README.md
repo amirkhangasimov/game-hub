@@ -7,10 +7,6 @@
 
 A responsive, high-performance web application for browsing video game data, engineered with React 18 and TypeScript.
 
-## Screenshot
-
-![App Screenshot](./screenshot.png)
-
 ## Project Overview
 
 Game Hub is a discovery dashboard that allows users to search, filter, and sort through a massive database of video games. The project focuses on **type safety**, **component modularity**, and **efficient data fetching**.
